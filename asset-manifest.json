@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Level-6-Captsone/static/css/main.6ef8feaf.chunk.css",
+    "main.js": "/Level-6-Captsone/static/js/main.89dd383e.chunk.js",
+    "main.js.map": "/Level-6-Captsone/static/js/main.89dd383e.chunk.js.map",
+    "runtime-main.js": "/Level-6-Captsone/static/js/runtime-main.39f7248c.js",
+    "runtime-main.js.map": "/Level-6-Captsone/static/js/runtime-main.39f7248c.js.map",
+    "static/js/2.509d089e.chunk.js": "/Level-6-Captsone/static/js/2.509d089e.chunk.js",
+    "static/js/2.509d089e.chunk.js.map": "/Level-6-Captsone/static/js/2.509d089e.chunk.js.map",
+    "index.html": "/Level-6-Captsone/index.html",
+    "static/css/main.6ef8feaf.chunk.css.map": "/Level-6-Captsone/static/css/main.6ef8feaf.chunk.css.map",
+    "static/js/2.509d089e.chunk.js.LICENSE.txt": "/Level-6-Captsone/static/js/2.509d089e.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Level-6-Captsone/static/media/zombies_reborn-webfont.95cd4fbb.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39f7248c.js",
+    "static/js/2.509d089e.chunk.js",
+    "static/css/main.6ef8feaf.chunk.css",
+    "static/js/main.89dd383e.chunk.js"
+  ]
+}
